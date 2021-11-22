@@ -1,0 +1,13 @@
+.card {
+  background-color: white;
+  padding: 1em;
+  border-radius: 1em;
+}
+
+.title {
+  color: black;
+}
+
+.p {
+  color: rgb(89, 89, 89);
+}
