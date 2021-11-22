@@ -1,10 +1,12 @@
 import React from "react";
 
-const Card = () => {
+import classes from "./Card.module.css";
+
+const Card = (props) => {
   return (
-    <div>
-      <h1>Title</h1>
-      <p>Place your description here</p>
+    <div className={classes.card}>
+      <h1 className={classes.title}>{props.title}</h1>
+      <p className={classes.p}>{props.description}</p>
     </div>
   );
 };
