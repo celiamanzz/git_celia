@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Git lecture for Celia
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
